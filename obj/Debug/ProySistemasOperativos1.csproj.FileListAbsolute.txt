@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ProySistemasOperativos1\bin\Debug\ProySistemasOperativos1.exe.config
+C:\Users\HP\source\repos\ProySistemasOperativos1\bin\Debug\ProySistemasOperativos1.exe
+C:\Users\HP\source\repos\ProySistemasOperativos1\bin\Debug\ProySistemasOperativos1.pdb
+C:\Users\HP\source\repos\ProySistemasOperativos1\obj\Debug\ProySistemasOperativos1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ProySistemasOperativos1\obj\Debug\ProySistemasOperativos1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\ProySistemasOperativos1\obj\Debug\ProySistemasOperativos1.FormPlanificador.resources
+C:\Users\HP\source\repos\ProySistemasOperativos1\obj\Debug\ProySistemasOperativos1.Properties.Resources.resources
+C:\Users\HP\source\repos\ProySistemasOperativos1\obj\Debug\ProySistemasOperativos1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ProySistemasOperativos1\obj\Debug\ProySistemasOperativos1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProySistemasOperativos1\obj\Debug\ProySistemasOperativos1.exe
+C:\Users\HP\source\repos\ProySistemasOperativos1\obj\Debug\ProySistemasOperativos1.pdb
